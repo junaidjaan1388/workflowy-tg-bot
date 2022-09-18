@@ -1,11 +1,12 @@
 bot:
-  token: <INSERT API TOKEN OF YOUR TELEGRAM BOT>
-  username: <INSERT USERNAME OF YOU BOT>
+  token: <5591495543:AAEHGMyLdL2Hi1B7o7N2K1divytrAD73OKQ
+>
+  username: <@torrent_yt_bot>
 
 user:
-  tg_id: <INSERT YOUR TELEGRAM USER ID>
+  tg_id: <@torrent_yt_bot>
 
 workflowy:
-  username: <INSERT YOUR WORKFLOWY USERNAME>
-  password: <INSERT YOUR WORKFLOWY PASSWORD>
+  username: <Junaid>
+  password: <12345678>
 
